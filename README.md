@@ -13,7 +13,7 @@ This Telegram bot lets you track India Post Speed Post shipments by entering a s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/india-post-tracking-bot.git
+git clone https://github.com/hv33y/india-post-tracking-bot.git
 cd india-post-tracking-bot
 ```
 
