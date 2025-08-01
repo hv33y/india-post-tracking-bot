@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "📦 Welcome to the India Post Speed Post Tracking Bot!\n\n"
+        "📦 Welcome to the India Post Tracking Bot!\n\n"
         "Use /track <tracking_number> to check your parcel status.\n\n"
         "Example:\n/track EK123456789IN"
     )
