@@ -1,10 +1,10 @@
-# India Post Speed Post (Telegram Tracking Bot)
+# India Post (Telegram Tracking Bot)
 
 This Telegram bot lets you track India Post Speed Post shipments by entering a single tracking number.
 
 ## Features
 
-- Track single India Post Speed Post tracking number at a time
+- Track single India Post tracking number at a time
 - Fetches live status updates from the official India Post website
 - Displays the latest 3 tracking updates
 - Simple `/track <tracking_number>` command interface
